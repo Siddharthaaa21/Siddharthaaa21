@@ -1,4 +1,4 @@
-<img src=https://c.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif width="1300" height="400">
+<img src=https://c.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif width="1200" height="300">
 
 <h1 align="center">Hi 🫡 I'm Siddhartha! </h1>
 
@@ -11,12 +11,13 @@
 <a href="https://linkedin.com/in/siddhartha-arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhartha-arora" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/siddharthaaa21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddharthaaa21" height="30" width="40" /></a>
 </p>
-<h1 align="center">MY Stats!📈 </h1>
+
 
 
 <hr size="2">
 
 <div align="center">
+  <h1 align="center">MY Stats!📈 </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=Siddharthaaa21&theme=cobalt&show_icons=true&count_private=true&size=small" width=350px>
 
 
