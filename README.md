@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 🫡 I'm Siddhartha! </h1>
 
-<img align="right" alt="Coding" width="600" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="Coding" width="450" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <h3 align="left">Connect with me :)</h3>
 
