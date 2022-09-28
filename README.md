@@ -1,4 +1,4 @@
-<img src=https://c.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif width="1200" height="300">
+<img src=https://c.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif width="1300" height="300">
 
 <h1 align="center">Hi I'm Siddhartha! </h1>
 
