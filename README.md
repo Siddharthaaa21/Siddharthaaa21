@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi I'm Siddhartha! </h1>
 
-<div align="center"> I'm persuing my second year in  Computer Science Engineering  </div>
+<div align="center"> I'm persuing my second year in  Computer Science Engineering and following DevOps as my major subject. </div>
 
 
 
