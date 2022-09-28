@@ -23,6 +23,7 @@
 
   </div>
   <div align="center">
+  <p align="right">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthaaa21&theme=cobalt" width=350px>
 </div>
 
