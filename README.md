@@ -2,12 +2,13 @@
 
 <h1 align="center">Hi I'm Siddhartha! </h1>
 
-<img align="right" alt="Coding" width="450" height="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+
 
 
 
 
 <hr size="2">
+<img align="right" alt="Coding" width="400" height="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <div align="left">
   <h1 align="center">Report!📈 </h1>
@@ -30,7 +31,7 @@
 <h3 align="left">Connect with me :)</h3>
 
 <p align="left">
-<a href="https://twitter.com/SiddharthaAror9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddharthaaror9" height="30" width="40" /></a>
+<a href="https://twitter.com/SiddharthaAror9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidharthaaror9" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/siddhartha-arora-0a94b022b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhartha-arora" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/siddharthaaa21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddharthaaa21" height="30" width="40" /></a>
 </p>
