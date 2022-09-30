@@ -41,6 +41,7 @@
 <a href="https://www.leetcode.com/siddharthaaa21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddharthaaa21" height="30" width="40" /></a>
 </p>
 
+
 <p align="right"> <a href="https://twitter.com/SiddharthaAror9" target="blank"><img src="https://img.shields.io/twitter/follow/siddharthaaror9?logo=twitter&style=for-the-badge" alt="SiddharthaAror9" /></a> </p>
 <hr size="2">
 
