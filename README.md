@@ -23,7 +23,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthaaa21&theme=cobalt" width="350">
 </div>
 <hr size="2">
-//
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthaaa21&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthaaa21" /> </p>
 <h3 align="left">Languages and Tools:</h3>
