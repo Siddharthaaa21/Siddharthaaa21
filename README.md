@@ -19,8 +19,7 @@
 
 
   </div>
-  <div align="center">
-  <p align="left">
+    <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthaaa21&theme=cobalt" width="350">
 </div>
 <hr size="2">
