@@ -2,7 +2,6 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Siddharthaaa;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 
-   <br> I'm persuing my second year in  Computer Science Engineering and following DevOps as my major subject. </br>
 </p>
    <br> I'm persuing my second year in  Computer Science Engineering and following DevOps as my major subject. </br>
 
