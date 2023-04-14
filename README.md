@@ -10,19 +10,20 @@
 
 
 
-<hr size="2">
 <!--<img align="right" alt="Coding" width="400" height="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">-->
 
 
+
+    <p align="right">
  
 <img src="https://github-readme-stats.vercel.app/api?username=Siddharthaaa21&theme=cobalt&show_icons=true&count_private=true&size=small" width="350">
 
-
-  </div>
+<p>
+ 
     <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthaaa21&theme=cobalt" width="350">
 
-<hr size="2">
+<hr size="2"></p>
 
 
  <img src="https://komarev.com/ghpvc/?username=siddharthaaa21&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthaaa21" /> </p>
