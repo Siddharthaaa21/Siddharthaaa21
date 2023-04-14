@@ -4,7 +4,7 @@
 
    <br> I'm persuing my second year in  Computer Science Engineering and following DevOps as my major subject. </br>
 </p>
-
+   <br> I'm persuing my second year in  Computer Science Engineering and following DevOps as my major subject. </br>
 
 
 
