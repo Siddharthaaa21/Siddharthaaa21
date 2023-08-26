@@ -25,14 +25,15 @@
 <h2 align="center">Languages and Tools I'm Familiar With:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,react,rust,c,python,mysql,flutter&perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,react,rust,c,python,mysql,flutter" />
   </a>
 </p>
 
 <!-- DevOps Tools -->
+<h2 align="center">DevOps and Infrastructure:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,grafana,jenkins,maven,aws,vim&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,grafana,jenkins,maven,aws,vim" />
   </a>
 </p>
 
