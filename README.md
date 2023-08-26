@@ -10,11 +10,7 @@
   Welcome to my vibrant corner of GitHub! I'm on a journey of innovation, curiosity, and continuous learning. Let's explore the world of code together.
 </p>
 
-<!-- Profile Views and GitHub Streak -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddharthaaa21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthaaa21&theme=cobalt" width="350">
-</p>
+
 
 <!-- Dynamic Graph -->
 <p align="center">
@@ -68,8 +64,10 @@
   <summary>Activity Graph 📈</summary>
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Your Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthaaa21&bg_color=000&color=ffffff&line=04e61b&point=403d3d&area=true&hide_border=true">
+   <img alt="Your Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthaaa21&bg_color=000&color=ffffff&line=04e61b&point=403d3d&area=true&hide_border=true">
   </a>
+  <!-- Profile Views and GitHub Streak --><a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthaaa21&theme=cobalt" width="350"></a>
 </details>
 
 <!-- Profile Views -->
