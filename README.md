@@ -5,17 +5,18 @@
 </p>
 
 <!-- Profile Name and Introduction -->
-<h1 align="center">👋 Hey, I'm Siddharthaaa!</h1>
+<h1 align="center">👋 Greetings, I'm Siddharthaaa!</h1>
 <p align="center">
-  Welcome to my vibrant corner of GitHub! I'm on a journey of innovation, curiosity, and continuous learning. Let's explore the world of code together.
+  Delighted to have you visit my GitHub haven! I'm embarked on a captivating journey, steering innovation, embracing curiosity, and nurturing a perpetual quest for learning. Let's navigate the realm of code together and unfold new horizons.
+</p>
+<p align="center">
+  I'm a third-year student, pursuing a major in DevOps and a minor in Artificial Intelligence and Machine Learning. Eagerly delving into the intricate dance between technology and intelligence.
 </p>
 
 
 
 <!-- Dynamic Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Siddharthaaa21&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph">
-</p>
+
 
 <!-- Skills -->
 <h2 align="center">Languages and Tools I'm Familiar With:</h2>
