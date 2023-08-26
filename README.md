@@ -50,6 +50,34 @@
   <a href="https://www.linkedin.com/in/siddhartha-arora-0a94b022b" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"  alt="LinkedIn" height="30" width="40"></a>
   <a href="https://www.leetcode.com/siddharthaaa21" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode"  alt="LinkedIn" height="30" width="40"> <a/>
 </p>
+<!-- GitHub Stats -->
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Siddharthaaa21&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=000&title_color=00E676&icon_color=00E676" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Your Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthaaa21&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=000&title_color=00E676&icon_color=00E676&hide=Jupyter%20Notebook" height="192px"/>
+  </a>
+  <br/>
+</details>
+
+<!-- Activity Graph -->
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Your Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthaaa21&bg_color=000&color=ffffff&line=04e61b&point=403d3d&area=true&hide_border=true">
+  </a>
+</details>
+
+<!-- Profile Views -->
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Siddharthaaa21&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
 
 <!-- Twitter Follow Badge 
 <p align="center">
