@@ -45,7 +45,7 @@
 <p align="center">
   <a href="https://twitter.com/Siddharthaaa21" target="_blank"><img src="https://skillicons.dev/icons?i=twitter"  alt="Twitter" height="30" width="40"></a>
     <a href="https://www.instagram.com/_siddhartha_arora/?next=%2F" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"  alt="Twitter" height="30" width="40"></a>
-  <a href="https://www.linkedin.com/in/siddhartha-arora-0a94b022b" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"  alt="LinkedIn" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/Siddharthaaa21" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"  alt="LinkedIn" height="30" width="40"></a>
   <a href="https://www.leetcode.com/siddharthaaa21" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode"  alt="LinkedIn" height="30" width="40"> <a/>
 </p>
 <!-- GitHub Stats -->
