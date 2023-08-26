@@ -47,18 +47,16 @@
 <p align="center">
   <a href="https://twitter.com/Siddharthaaa21" target="_blank"><img src="https://skillicons.dev/icons?i=twitter"  alt="Twitter" height="30" width="40"></a>
     <a href="https://www.instagram.com/_siddhartha_arora/?next=%2F" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"  alt="Twitter" height="30" width="40"></a>
-
-  
   <a href="https://www.linkedin.com/in/siddhartha-arora-0a94b022b" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"  alt="LinkedIn" height="30" width="40"></a>
-  <a href="https://www.leetcode.com/siddharthaaa21" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode"  alt="LinkedIn" height="30" width="40"> />
+  <a href="https://www.leetcode.com/siddharthaaa21" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode"  alt="LinkedIn" height="30" width="40"> <a/>
 </p>
 
-<!-- Twitter Follow Badge -->
+<!-- Twitter Follow Badge 
 <p align="center">
   <a href="https://twitter.com/SiddharthaAror9" target="_blank">
     <img src="https://img.shields.io/twitter/follow/siddharthaaror9?logo=twitter&style=for-the-badge" alt="Twitter Follow">
   </a>
-</p>
+</p>-->
 
 <!-- Horizontal Line -->
 <hr>
