@@ -7,11 +7,12 @@
 <!-- Profile Name and Introduction -->
 <h1 align="center">👋 Greetings, I'm Siddharthaaa!</h1>
 <p align="center">
-  Delighted to have you visit my GitHub haven! I'm embarked on a captivating journey, steering innovation, embracing curiosity, and nurturing a perpetual quest for learning. Let's navigate the realm of code together and unfold new horizons.
+  Welcome aboard to my dynamic corner of GitHub! I'm fueled by boundless curiosity, on a mission to revolutionize through DevOps and ignite the future with AI and ML. Join me on this exhilarating journey of code and innovation!
 </p>
 <p align="center">
-  I'm a third-year student, pursuing a major in DevOps and a minor in Artificial Intelligence and Machine Learning. Eagerly delving into the intricate dance between technology and intelligence.
+  I'm a third-year powerhouse, immersed in the world of DevOps as my major and conquering the intricate realms of Artificial Intelligence and Machine Learning as my minor. Let's push boundaries, create brilliance, and craft a legacy together.
 </p>
+
 
 
 
