@@ -65,12 +65,18 @@
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
    <img alt="Your Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthaaa21&bg_color=000&color=ffffff&line=04e61b&point=403d3d&area=true&hide_border=true">
-  </a>  <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthaaa21&theme=cobalt" width="350"></a>
 
   <!-- Profile Views and  -->
 </details>
 <details>
-  <summary>Profile streaks</summary>
+  <summary> Streak Stats 
+</summary>
+  <p align="center">
+  <a href="https://github.com/Siddharthaaa21">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthaaa21&theme=cobalt" alt="Streak Stats" width="350">
+  </a>
+</p>
+  
   <br/>
   
 </details>
