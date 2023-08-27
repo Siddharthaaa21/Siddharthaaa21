@@ -20,7 +20,7 @@
 
 
 <!-- Skills -->
-<h2 align="center">Languages and Tools I'm Familiar With:</h2>
+<h2 align="center">Languages  I'm Familiar With:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,html,css,react,rust,c,python,mysql,flutter" />
