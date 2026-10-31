@@ -1,12 +1,12 @@
-<!-- Animated Waving Hero Banner -->
+<!-- Moving Tech Banner (GitHub CDN - 100% Uptime) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,70:0d1117,100:00E676&height=190&section=header&text=Siddhartha%20Arora&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Agentic%20AI%20%26%20Distributed%20Systems&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="45%" alt="Retro Tech Animation" />
 </p>
 
-<!-- Dynamic Typewriter Animation -->
+<!-- Dynamic Typewriter Animation (Cloudflare Edge-Cached) -->
 <p align="center">
   <a href="https://github.com/Siddharthaaa21">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1200&color=00E676&center=true&vCenter=true&width=650&height=50&lines=Software+Engineer+%C2%B7+Agentic+AI;Specialist+Programmer+%40+Infosys;Production+LLM+%26+GenAI+Orchestration;Distributed+Systems+%26+Cloud+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00E676&center=true&vCenter=true&width=650&height=50&lines=Software+Engineer+%C2%B7+Agentic+AI;Specialist+Programmer+%40+Infosys;Production+LLM+%26+GenAI+Orchestration;Distributed+Systems+%26+Cloud+Infrastructure" alt="Typing SVG" />
   </a>
 </p>
 
